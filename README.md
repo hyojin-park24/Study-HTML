@@ -1,5 +1,6 @@
-*# HTML학습 리포지토리*
-**HTML5,CSS3, JS 학습용 리포지토리** 
+# HTML학습 리포지토리
+
+*HTML5,CSS3, JS 학습용 리포지토리* 
 
 ## HTML5 
 HTML 기본 학습
@@ -10,7 +11,7 @@ HTML 기본 학습
 2. HTML 역사
 3. HTML5의 
 
-- Hyper Text Markup Language정의
+- Hyper Text Markup *Language*정의
 - HTML 역사
 - HTML5의 
   - UL
