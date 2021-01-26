@@ -20,7 +20,7 @@ HTML 기본 학습
       - SUL3
       - SUL 3
       
-``` JAVA
+``` JAVASCRIPT
 public class BootSpringBootApplication {
   public static void main(String[] args) {
     System.out.println("Hello, Honeymon");
