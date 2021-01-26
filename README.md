@@ -20,16 +20,13 @@ HTML 기본 학습
       - SUL3
       - SUL 3
       
-'''
-using System .IO;
- namespace HelloWorldApp{
-  public class Program {
-   public static void Main (String [] args){
-    Console,Writeline("Hello, World!");
-    }
-    }
-    }
-'''
+```
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, Honeymon");
+  }
+}
+``` 
 
 
 ## CSS3
