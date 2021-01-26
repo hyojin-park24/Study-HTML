@@ -22,7 +22,13 @@ HTML 기본 학습
       
 '''
 using System .IO;
- namespace
+ namespace HelloWorldApp{
+  public class Program {
+   public static void Main (String [] args){
+    Console,Writeline("Hello, World!");
+    }
+    }
+    }
 '''
 
 
