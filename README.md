@@ -17,7 +17,7 @@ CSS3 기본 학습
 JAVASCRIPT 기본 학습
 
 ## Risponsive Web
-Risponsive Web 기본 학습
+응답형  기본 학습
 
 ## Project
 전체통합 프로젝트
