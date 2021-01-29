@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>css selector</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <style>
+        #header {
+            width: 800px; 
+            margin:0 auto ;
+            background-color: cornflowerblue;
+
+        }
+
+        #wrap{
+            width: 800px; 
+            margin:0 auto ;
+            overflow: hidden;
+
+        }
+
+        #aside{
+            width: 200px;
+            float: left;
+            background-color:lightskyblue;
+
+
+        }
+
+        #content{
+            width: 600px;
+            height: 186px;
+            float: left;
+            background-color:mediumaquamarine;
+
+
+        }
+
+        #content h1{
+            text-align: right;}
+
+        #footer{
+            width: 800px; 
+            margin:0 auto ;
+
+        }
+
+        .fruits{
+            color:tomato;
+            font-weight: bold;
+        }
+
+        .item{
+            color: salmon;
+        }
+
+        .footer{
+            background-color: lightgrey;
+        }
+
+        input[type="text"] {
+            background-color: rgb(230, 119, 119);
+            
+            
+        }
+
+        input[type="password"] {
+            background-color: rgb(104, 104, 255);
+            
+        }
+
+
+
+    </style>
+</head>
+<body>
+    <div id="header">
+        <h1>#header 태그</h1>
+    </div>
+    <div id="wrap">
+        <div id="aside">
+            <h1>#aside 태그</h1>
+            <ul>
+                <li class="fruits"><a href="httf://naver.com"></a>사과</li>
+                <li><a href="httf://goole.com"></a>배</li>
+                <li><a href="httf://microsoft.com"></a>바나나</li>
+                <li class="fruits"><a href="httf://daum.com"></a>딸기</li>
+            </ul>
+        </div>
+        <div id="content">
+            <h1>#content 태그</h1>
+            <form>
+                <input type="text">
+                <input type="password">
+            
+            </form>
+        </div>
+    </div>
+    <div id="footer">
+        <h1 class="item footer"># footer 태그</h1>
+    </div>  
+    
+</body>
+</html>
