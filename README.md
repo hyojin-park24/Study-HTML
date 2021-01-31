@@ -102,16 +102,19 @@ HTML 기본 학습
 [표예제].(https://rintiantta.github.io/academy-html/guide/chapter3.html#%EA%B8%B0%EB%B3%B8%EC%98%88%EC%A0%9C-3-8-%ED%96%89%E3%83%BB%EC%97%B4-%ED%95%A9%EC%B9%A8-%ED%91%9C-%EC%83%9D%EC%84%B1)   
 
 - **IMG태그**    
- * 4가지 속성      
-  * src / alt / width / heidth : 경로지정 / 이미지 에러시 글 표현 / 너비 / 높이    
+ * 4가지 속성   
+ 
+   * src / alt / width / heidth : 경로지정 / 이미지 에러시 글 표현 / 너비 / 높이    
   
 - **AUDIO태그**   
  * 5가지 속성   
-  * src / preload / autoplay / loop / cotrols   
+ 
+   * src / preload / autoplay / loop / cotrols   
   
 - **VIDEO태그**   
  * 2가지 속성   
-  * width / heidth
+ 
+   * width / heidth
 
 ## CSS3
 CSS3 기본 학습
