@@ -39,7 +39,7 @@ HTML 기본 학습
     >  a태그 속성 herf
   ```
   <a href="www.naver.com">네이버</a>
-  ```
+  ```   
  
  - **목록태그**  
  
@@ -58,7 +58,44 @@ HTML 기본 학습
     </li>
    </ul>
   </body> 
-```
+```   
+
+- **테이블태그**
+
+ * table/tr/th/td   
+    : *표* 삽입 / 표에 *행* 삽입 / 표의 *제목 셀* 생성 / 표에 *일반 셀* 생성   
+    
+    ```
+    <!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Table Basic Page</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th colspan="2">지역별 홍차</th>
+        </tr>
+        <tr>
+            <th rowspan="3">중국</th>
+            <td>정산소종</td>
+        </tr>
+        <tr><td>기문</td></tr>
+        <tr><td>운남</td></tr>
+        <tr>
+            <th rowspan="4">인도 및 스리랑카</th>
+            <td>아삼</td>
+        </tr>
+        <tr><td>실론</td></tr>
+        <tr><td>다질링</td></tr>
+        <tr><td>닐기리</td></tr>
+    </table>
+</body>
+</html>
+
+```   
+
+[표예제].(https://rintiantta.github.io/academy-html/guide/chapter3.html#%EA%B8%B0%EB%B3%B8%EC%98%88%EC%A0%9C-3-8-%ED%96%89%E3%83%BB%EC%97%B4-%ED%95%A9%EC%B9%A8-%ED%91%9C-%EC%83%9D%EC%84%B1)
 
 ## CSS3
 CSS3 기본 학습
