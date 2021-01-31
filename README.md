@@ -64,6 +64,10 @@ HTML 기본 학습
 
   * table/tr/th/td   
     : __표__ 삽입 / 표에 **행** 삽입 / 표의 **제목 셀** 생성 / 표에 **일반 셀** 생성   
+ 
+ > table 태그 속성 : border (표의 두께 지정)
+   th 태그 속성 : colspan (셀 너비 지정)
+   td 태그 속성 : rowspan (셀 높이 지정)
 
 ```
     <!DOCTYPE html>
@@ -95,7 +99,19 @@ HTML 기본 학습
 
 ```   
 
-[표예제].(https://rintiantta.github.io/academy-html/guide/chapter3.html#%EA%B8%B0%EB%B3%B8%EC%98%88%EC%A0%9C-3-8-%ED%96%89%E3%83%BB%EC%97%B4-%ED%95%A9%EC%B9%A8-%ED%91%9C-%EC%83%9D%EC%84%B1)
+[표예제].(https://rintiantta.github.io/academy-html/guide/chapter3.html#%EA%B8%B0%EB%B3%B8%EC%98%88%EC%A0%9C-3-8-%ED%96%89%E3%83%BB%EC%97%B4-%ED%95%A9%EC%B9%A8-%ED%91%9C-%EC%83%9D%EC%84%B1)   
+
+- **IMG태그**    
+ * 4가지 속성      
+  * src / alt / width / heidth : 경로지정 / 이미지 에러시 글 표현 / 너비 / 높이    
+  
+- **AUDIO태그**   
+ * 5가지 속성   
+  * src / preload / autoplay / loop / cotrols   
+  
+- **VIDEO태그**   
+ * 2가지 속성   
+  * width / heidth
 
 ## CSS3
 CSS3 기본 학습
