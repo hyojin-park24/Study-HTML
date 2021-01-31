@@ -28,12 +28,13 @@ HTML 기본 학습
 ## 1.HTML기본태그
 >태그와 속성의 이해
 
- -   **글자태그** 
+ -   **글자태그**   
  
-   * h1~h6 : 제목 글자 생성   
-   * p/br/hr : 본문 생성/줄바꿈/수평선 생성   
-   * a : 하이퍼링크 생성    
-   * b/i/small/sub/super/ins/del : 굴게/기울게/작게/아래첨자/위첨자/밑줄글자/취소선글자     
+ 
+    * h1~h6 : 제목 글자 생성   
+    * p/br/hr : 본문 생성/줄바꿈/수평선 생성   
+    * a : 하이퍼링크 생성    
+    * b/i/small/sub/super/ins/del : 굴게/기울게/작게/아래첨자/위첨자/밑줄글자/취소선글자     
   
     > <a태그> 앵커태그 = 링크태그라고 부름    
     >  a태그 속성 herf
@@ -102,19 +103,22 @@ HTML 기본 학습
 [표예제].(https://rintiantta.github.io/academy-html/guide/chapter3.html#%EA%B8%B0%EB%B3%B8%EC%98%88%EC%A0%9C-3-8-%ED%96%89%E3%83%BB%EC%97%B4-%ED%95%A9%EC%B9%A8-%ED%91%9C-%EC%83%9D%EC%84%B1)   
 
 - **IMG태그**    
- * 4가지 속성   
+
+  * 4가지 속성   
  
-   * src / alt / width / heidth : 경로지정 / 이미지 에러시 글 표현 / 너비 / 높이    
+    * src / alt / width / heidth : 경로지정 / 이미지 에러시 글 표현 / 너비 / 높이    
   
 - **AUDIO태그**   
- * 5가지 속성   
+
+  * 5가지 속성   
  
-   * src / preload / autoplay / loop / cotrols   
+    * src / preload / autoplay / loop / cotrols   
   
 - **VIDEO태그**   
- * 2가지 속성   
+
+  * 2가지 속성   
  
-   * width / heidth
+    * width / heidth
 
 ## CSS3
 CSS3 기본 학습
