@@ -137,7 +137,41 @@ HTML 기본 학습
        </body> 
        
           
-       => <form> 태그로 영역 생성 , <input>으로 내부 태그를 넣어서 만듦 
+       => <form> 태그로 영역 생성 , <input>으로 내부 태그를 넣어서 만듦    
+       
+       <!--POST 전송 방식-->   
+       <body>   
+        <form method = "post">   
+         <input type = "text" name = "search">   
+         <input type = "submit">   
+        </form>   
+       </body>   
+       
+       <!--GET 전송 방식-->   
+       <body>   
+        <form method = "get">   
+         <input type = "text" name = "search">   
+         <input type = "submit">   
+        </form>   
+       </body>   
+       
+  **입력 양식 태그**   
+  
+   * form : 입력 양식의 시작과 끝 표시    
+   * input   
+     * text : 글자 입력 양식 생성   
+     * buttom : 버튼 생성   
+     * checkbox : 체크 박스 생성    
+     * file : 파일 입력 양식 생성   
+     * hidden : 해당내용 표시 안 함   
+     * image : 이미지 형태 생성   
+     * password : 비밀번호 입력 양식 생성   
+     * radio : 라디오 버튼 생성   
+     * reset : 초기화 버튼 생성   
+     * submit : 제출 버튼 생성   
+  * textarea   
+    * cols/rows : 여러 행의 글자 입력 양식 생성 (너비/높이)   
+    
     
 
 ## CSS3
