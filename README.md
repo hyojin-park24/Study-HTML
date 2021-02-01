@@ -100,8 +100,6 @@ HTML 기본 학습
 
 ```   
 
-[표예제].(https://rintiantta.github.io/academy-html/guide/chapter3.html#%EA%B8%B0%EB%B3%B8%EC%98%88%EC%A0%9C-3-8-%ED%96%89%E3%83%BB%EC%97%B4-%ED%95%A9%EC%B9%A8-%ED%91%9C-%EC%83%9D%EC%84%B1)   
-
 - **IMG태그**    
 
   * 4가지 속성   
@@ -118,7 +116,29 @@ HTML 기본 학습
 
   * 2가지 속성   
  
-    * width / heidth
+    * width / heidth   
+    
+ ## 2. HTML5 입력양식 태그와 구조화 태그   
+ 
+  > 입력 양식 이란?   
+    사용자에게 정보를 입력받는 요소 : 입력 양식 태그를 사용   
+    **POST방식과 GET방식**   
+    - POST 방식 : 비밀스럽게 데이터를 전달   
+       Ex) 물건을 택배로 부치듯 데이터를 별도로 전송 : **데이터 용량 제한 없음**   
+    - GET 방식 : 주소에 데이터를 입력해서 전달   
+       Ex) 물건을 직접 들고 감 : **데이터 크기 한정**   
+       
+       ```
+       <body>   
+        <form>   
+         <input type = "text" name = "search">   
+         <input type = "submit">   
+        </form>   
+       </body> 
+       
+       ```   
+       => * form * 태그로 영역 생성 , *input*으로 내부 태그를 넣어서 만듦 
+    
 
 ## CSS3
 CSS3 기본 학습   
