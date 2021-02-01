@@ -171,6 +171,10 @@ HTML 기본 학습
      * submit : 제출 버튼 생성   
   * textarea   
     * cols/rows : 여러 행의 글자 입력 양식 생성 (너비/높이)   
+  * select / optgroup / option : 선택 양식 생성 / 옵션 그룹화 / 옵션  생성    
+  * fieldset / legend : 입력 양식의 그룹 지정 / 입력 양식 그룹의 이름 지정    
+  
+  
     
     
 
