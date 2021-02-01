@@ -207,7 +207,7 @@ HTML 기본 학습
  * article : 본문과 독립적인 콘텐츠 영역   
  * footer : 꼬리말 (저자나 저작권 정보)   
  
-  article ⊂ section 
+ ※article ⊂ section 
   
   
     
