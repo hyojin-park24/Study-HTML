@@ -128,7 +128,7 @@ HTML 기본 학습
     - GET 방식 : 주소에 데이터를 입력해서 전달   
        Ex) 물건을 직접 들고 감 : **데이터 크기 한정**   
        
-       ```
+       
        <body>   
         <form>   
          <input type = "text" name = "search">   
@@ -136,7 +136,7 @@ HTML 기본 학습
         </form>   
        </body> 
        
-       ```   
+          
        => <form> 태그로 영역 생성 , <input>으로 내부 태그를 넣어서 만듦 
     
 
