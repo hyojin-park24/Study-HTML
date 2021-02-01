@@ -5,10 +5,34 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Page Title</title>
     <meta name='viewport' content='width=device-width, initial-scale=1, user-scalable=no'>
-    <link rel="stylesheet" href="screen.css" media="screen">
-    <link rel="stylesheet" href="print.css" media="print">
+    <style>
+        /* 모바일 */
+    /* @media (max-width: 499px) {
+        body { background-color: red; }
+    } */
+    /* 테블릿 */
+/* 
+    @media (min-width: 500px) and (max-width: 799px) {
+        body { background-color: green; }
+    } */
+    /* 웹 */
 
-   
+    /* @media (min-width: 800px) {
+        body { background-color: blue; }
+    } */
+
+    @media screen and (orientation: portrait) {
+            body {
+                background-color: red;
+            }
+        }
+
+        @media screen and (orientation: landscape) {
+            body {
+                background-color: green;
+            }
+        }
+    </style>
 </head>
 <body>
     <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur accusantium, excepturi sed impedit quo exercitationem amet! Expedita sapiente sunt autem animi deleniti magnam modi, accusantium libero? Incidunt aspernatur commodi tenetur.</h1>
