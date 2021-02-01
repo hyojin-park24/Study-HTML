@@ -121,7 +121,8 @@ HTML 기본 학습
     * width / heidth
 
 ## CSS3
-CSS3 기본 학습
+CSS3 기본 학습   
+[CSS소스](https://github.com/hyojin-park24/Study-HTML/tree/main/02_CSS)
 
 
 ## JAVASCRIPT 
