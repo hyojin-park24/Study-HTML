@@ -219,10 +219,16 @@ CSS3 기본 학습
 
 
 ## JAVASCRIPT 
-JAVASCRIPT 기본 학습
+JAVASCRIPT 기본 학습   
+[JS소스](https://github.com/hyojin-park24/Study-HTML/tree/main/03_Javascript)
 
 ## Risponsive Web
-응답형 웹 기본 학습
+[전체소스](https://github.com/hyojin-park24/Study-HTML/tree/main/04_project)
 
 ## Project
-전체통합 프로젝트
+전체통합 프로젝트   
+
+### 반응형 웹 그리드 레이아웃 웹페이지 실습    
+![결과1](/ref_images/result01.png "전체레이아웃")   
+![결과1](/ref_images/result02.png "팝업레이아웃")
+
